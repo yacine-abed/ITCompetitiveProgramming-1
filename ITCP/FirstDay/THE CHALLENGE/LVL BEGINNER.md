@@ -1,37 +1,28 @@
 # ITC Second Week challenge
-## Probleme 01: 
-Étant donné une liste linéaire chainée L , composée de n éléments . 
+## Probleme 01: LINUX 
 
-Vous devez vérifier si la liste est palindrome ou pas. 
+Move the file named Sharing-is-caring to the directory tmp/ITC
 
-***Exp :***
 
- ```
-Liste palindrome: 
+## Probleme 02 : CRYPTOGRAPHY
 
-0→1→2→3→2→1→0
+It can be really simple, when you dont overthink... 
+and go back to the rot of the problem ... 
+can you decrypt the following ? 
 
-0→1→2→3→3→2→1→0
+vgpSYNT{s6e0g_02rc0_9er_6zc5e29a2}
+
+
+## Probleme 03: LINKED LIST
+
+Given the Sorted Linked list head which contain duplicates, the task is
+to delete all the duplicate and make linked list such that every element
+appear just one time.
+Example:
 ```
-
-***PS: solution avec Les vecteurs ( tableau 01 dimension ) est correcte.***
-
-## Probleme 02 : 
-
-Créer une application mobile/web qui demande de l'utilisateur de :
-
-1. deviner le nombre aléatoire compris entre 0 et 100 .
-2. afficher Si la valeur donnée par l'utilisateur  est superieur ou inferieur á la valeur aléatoire. 
-
-***PS : maximum d'essai : 03.***
-
-## Probleme 03:
-
-Créer une base de données ITC et une table MEMBRES, puis remplir cette derniere par les informations de nos membres.  
-
-Sachant qu'un membre peut etre défini par : (- nom , -prénom , -age, -specialité,-position ), puis afficher le contenue de la table remplie. 
-Position: membre, membreBureau.
-
+Original Linked list : 1 1 2 2 3
+Answer : 1 2 3
+```
 ## Probleme 04 :
 
 
