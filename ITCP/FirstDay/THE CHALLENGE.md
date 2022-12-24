@@ -59,7 +59,7 @@ Sample Output - 1
 
 ```
 
-## Probleme 05: 
+## Probleme 05: DIVIDE AND CONQUOR
 
 Given 𝑛 points on a plane, find the smallest distance between a pair of two (different) points. 
 
@@ -68,6 +68,43 @@ Recall
 ```
 the distance between points (𝑥1, 𝑦1) and (𝑥2, 𝑦2) is equal to √︀((𝑥1 − 𝑥2)² + (𝑦1 − 𝑦2)²)
 ```
+
+## Problem 06: SEARCH ALGORITHMS
+
+Linear Search is one of the easiest searching algorithm. The main aim of a searching algorithm is to search for a desired element in the whole array. Linear Search sequentially searches for an element in an array.
+
+algorithm :
+```
+In Linear Search, we start from the 0th index of the array, we compare each element with the key (desired element).
+If the key is same as the element of array ,we return the index of that element.
+If the key does not match any element then ,we return -1.
+
+```
+
+implement it algoriithm 
+
+## Problem 07: STRINGS
+
+
+Read a string, S and print its integer value. If S cannot be converted to 
+an integer, print Bad String.
+
+## Problem 08: DATABASE-SQL
+
+Create a database and then create tables and insert data in, then alter these tables and update values.
+
+## Problem 09: WEB 
+
+Connect to Database Using Javascript
+
+## Problem 10: WEB/MOB DEV 
+
+Can you create a Weather API application ? 
+
+
+
+
+
 
 **GOOD LUCK** 🚀
 
