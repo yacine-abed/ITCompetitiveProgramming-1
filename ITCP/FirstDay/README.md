@@ -2,6 +2,7 @@
 ```
 “First, solve the problem. Then, write the code.” – John Johnson
 ```
+Made with love, coffe and sleepless night - TECH DEPARTEMENT TEAM 
 
 ## Welcome
 
