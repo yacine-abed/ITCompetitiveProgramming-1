@@ -1,7 +1,9 @@
 # ITCompetitiveProgramming challenge
+```
+“First, solve the problem. Then, write the code.” – John Johnson
 
+```
 
-the challenge is "beginners friendly" meaning anyone with basic knowledge can participate 
 
 **GOOD LUCK <3**
 
