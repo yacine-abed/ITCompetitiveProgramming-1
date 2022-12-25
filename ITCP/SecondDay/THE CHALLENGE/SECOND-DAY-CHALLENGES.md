@@ -242,15 +242,15 @@ Write a function that computes the list of the first 100 Fibonacci numbers. The 
 ## Problem 26:
 
 Write a function that takes a list of strings an prints them, one per line, in a rectangular frame. For example the list ["AYOUB", "IS", "!BEST", "ITC", "BNADM"] gets printed as:
-
- *******
+```
+*********
 * AYOUB *
 * IS    *
 * !BEST *
 * ITC   *
 * BNADM *
- *******
- 
+*********
+ ```
  ## Problem 27:
  Given two numbers, return true if the sum of both numbers is less than 100. Otherwise return false
  
