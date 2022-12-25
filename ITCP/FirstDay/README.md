@@ -1,11 +1,7 @@
 # ITCompetitiveProgramming challenge
 ```
 “First, solve the problem. Then, write the code.” – John Johnson
-
 ```
-
-
-**GOOD LUCK <3**
 
 ## Welcome
 
@@ -38,6 +34,8 @@ A sorting algorithm is used to arrange elements of an array/list in a specific o
 
 [How to install MySQL ](https://www.youtube.com/watch?v=UzjbQ6hn7-A)
 
+
+
 ## Submitting your solution
 
 Submit your solution on the drive or your GitHub repo 
@@ -50,7 +48,7 @@ Submit your solution on the drive or your GitHub repo
 
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please dm us.
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+This challenge is completely free. Please share it with anyone who will find it useful for practice once the event is over.
 
 **Have fun coding!** 🚀
 
