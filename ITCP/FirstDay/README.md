@@ -41,8 +41,6 @@ A sorting algorithm is used to arrange elements of an array/list in a specific o
 
 Submit your solution on the drive or your GitHub repo 
 
-## Sharing your solution
-
 
 
 ## Got feedback for us?
