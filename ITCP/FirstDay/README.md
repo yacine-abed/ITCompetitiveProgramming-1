@@ -1,6 +1,5 @@
-# ITC Second Week challenge
+# ITCompetitiveProgramming challenge
 
-This week we gonna take you far away from the web dev area to the pure coding area where we gonna test your knowledge of some basic necessary concepts that every programmer should know about 
 
 the challenge is "beginners friendly" meaning anyone with basic knowledge can participate 
 
@@ -8,9 +7,9 @@ the challenge is "beginners friendly" meaning anyone with basic knowledge can pa
 
 ## Welcome
 
-Thanks for checking out this week's coding challenge.
+Thanks for participating in our event.
 
-**To do this challenge, you need a basic understanding of DSA- Data Structures and Algorithms, Sorting Algorithms, and a programming language**
+**To do this challenge, you need a basic understanding of DSA- Data Structures and Algorithms, Sorting Algorithms, and programming language**
 
 
 ## Where to find everything
@@ -43,9 +42,6 @@ Submit your solution on the drive or your GitHub repo
 
 ## Sharing your solution
 
-There are multiple places you can share your solution:
-
-1. Share your solution page in the **Coding challenge** channel of the *ITC internal server discord*
 
 
 ## Got feedback for us?
