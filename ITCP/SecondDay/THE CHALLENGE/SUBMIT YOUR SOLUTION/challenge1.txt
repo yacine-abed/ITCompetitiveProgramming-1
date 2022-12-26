@@ -1,1 +1,1 @@
-the new string is itcFLAG{aloha}.
+sed -i '/Assia ben daoud/d' *.txt 
